@@ -1,0 +1,3 @@
+dependencies {
+    compile("io.micrometer:micrometer-registry-prometheus:1.1.3")
+}
